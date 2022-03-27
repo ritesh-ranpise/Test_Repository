@@ -1,3 +1,2 @@
 Hello World
-Change made to understand .git
-modified in CDT branch
+Modified in master branch to test git merge from git hub
