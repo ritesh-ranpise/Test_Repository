@@ -1,2 +1,2 @@
 Hello World
-Change made to understand .git
+Modified in master branch to test git merge from git hub
