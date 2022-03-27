@@ -1,2 +1,3 @@
 Hello World
 Modified in master branch to test git merge from git hub
+Modified in master branch to test git merge from git
